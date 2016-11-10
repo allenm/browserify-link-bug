@@ -6,3 +6,5 @@
 2. clone this repo to your disk.
 3. run `npm start`
 4. then you can see the error : "Cannot find module '../../../../.1.1.4@is-buffer/index.js' from '/YOUR_LOCAL_PATH/browserify-bug/node_modules/.1.0.2@core-util-is/lib'"
+
+The bugfix PR is: [https://github.com/substack/module-deps/pull/122](https://github.com/substack/module-deps/pull/122)
